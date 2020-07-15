@@ -1,5 +1,16 @@
-# Visual Studio 2015 user specific files
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.opendb
 .vs/
+.idea/
+.DS_Store
+
+# Visual Studio 2015 database file
+*.VC.db
 
 # Compiled Object files
 *.slo
@@ -72,3 +83,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Starter Content Ignored
+
+Content/StarterContent/*
+
+VSCode Files
+/.vscode/*
+BuildingEscape.code-workspace
